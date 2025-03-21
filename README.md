@@ -1,3 +1,5 @@
+https://github.com/EasysPublishing/do_it_pandas.git
+
 from mysql.connector import MySQLConnection, Error
 from configparser import ConfigParser
 import datetime
